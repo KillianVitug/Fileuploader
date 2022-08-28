@@ -1,0 +1,1 @@
+START C:\xampp\mysql\bin\mysql -u root
